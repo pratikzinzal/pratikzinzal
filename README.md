@@ -1,4 +1,12 @@
-## Hi there 👋
+## Henlo there 👋 I'm [Pratik](https://github.com/pratikzinzal)<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+
+I am a Software Engineer by profession. I like exploring and trying out new technologies, make a perfect cup of ☕ and often take a detour to the 🌄.
+
+![Twitter Follow]()
+[![Linkedin: pratik](https://img.shields.io/badge/-Harshil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratik-zinzala-393672236)](https://www.linkedin.com/in/pratik-zinzala-393672236)
+![GitHub followers](https://img.shields.io/github/followers/pratikzinzal?label=Follow&style=social)
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## Skills 
   
