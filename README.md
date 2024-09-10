@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/pratikzinzal/pratikzinzal/main/gifs/header_en.svg"></img>
 
 
-## Henlo there 👋 I'm [Pratik](https://github.com/pratikzinzal)<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+## Hello there 👋 I'm [Pratik](https://github.com/pratikzinzal)<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 I am a Software Engineer by profession. I like exploring and trying out new technologies, make a perfect cup of ☕ and often take a detour to the 🌄.
 
