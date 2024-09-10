@@ -24,7 +24,7 @@ I am a Software Engineer by profession. I like exploring and trying out new tech
 <!--🤔INTERESTTITLE-->
 <p align="center">
 <img src="https://i.imgur.com/ozEwbHs.gif">
-  
+</h3>
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/pratikzinzal/pratikzinzal/main/gifs/android_gif.gif" width="100">
