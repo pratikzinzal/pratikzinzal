@@ -16,7 +16,13 @@ I am a Software Engineer by profession. I like exploring and trying out new tech
 -   💬  Always up for a discussion!
 -   📫  How to reach me: [Mail](mailto:pratikzinzala22@gmail.com) [Linkdin](https://www.linkedin.com/in/pratik-zinzala-393672236)
 
-## Skills 
+<!--🐱CAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
+<!--🤔INTERESTTITLE-->
+<p align="center">
+<img src="https://i.imgur.com/ozEwbHs.gif">
   
 <div align="center">
 
