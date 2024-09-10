@@ -8,6 +8,14 @@ I am a Software Engineer by profession. I like exploring and trying out new tech
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+### More About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+-   💻  Worked as a Software Engineer at **[Hyperlink Infosystem](https://www.hyperlinkinfosystem.com/)** 
+-   🔭  I have experience working on Kotlin,java,Backend and Android Framework. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+-   🌱  I’m currently learning Compose Multiplatform 
+-   🤔  I’m open for new and exciting opportunities
+-   💬  Always up for a discussion!
+-   📫  How to reach me: [Mail](mailto:pratikzinzala22@gmail.com) [Linkdin](https://www.linkedin.com/in/pratik-zinzala-393672236)
+
 ## Skills 
   
 <div align="center">
